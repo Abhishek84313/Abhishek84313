@@ -79,7 +79,7 @@
 ## ⚡ [Flash-Sale Simulation](https://github.com/Abhishek84313)
 
 <div align="center">
-<img src="https://placehold.co/600x300?text=Flash-Sale+Simulation" width="100%"/>
+<img src="assets/flash-sale.png" width="100%"/>
 </div>
 
 > A full-stack e-commerce flash-sale simulation engineered for heavy traffic bursts. An Nginx reverse-proxy load balancer distributes traffic across clustered Spring Boot nodes, while Apache ShardingSphere horizontally partitions high-volume order tables across multiple MySQL shards using hash-based routing.
@@ -103,7 +103,7 @@
 ## 💰 [Expense Tracker](https://github.com/Abhishek84313)
 
 <div align="center">
-<img src="https://placehold.co/600x300?text=Expense+Tracker" width="100%"/>
+<img src="assets/expense-tracker.png" width="100%"/>
 </div>
 
 > A full-stack expense management platform with real-time tracking, category analytics and a sleek dashboard. Spring Boot REST API powering a reactive React frontend.
@@ -130,7 +130,7 @@
 ## 🏃 [Fit Bit](https://github.com/Abhishek84313)
 
 <div align="center">
-<img src="https://placehold.co/600x300?text=Fit+Bit" width="50%"/>
+<img src="assets/fitbit.png" width="50%"/>
 </div>
 
 > Fitness tracking application built on RESTful services — activity logging, progress metrics and goal tracking wrapped in a clean, responsive interface.
@@ -215,7 +215,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek84313&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek84313&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek84313&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
@@ -225,7 +225,7 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek84313&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek84313&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
