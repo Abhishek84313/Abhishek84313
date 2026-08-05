@@ -240,7 +240,7 @@
 
 </div>
 
-> ⚡ This animation is auto-generated from your real commit graph by the `.github/workflows/snake.yml` workflow — it updates itself daily once pushed to GitHub, no manual upkeep needed.
+>
 
 ---
 
