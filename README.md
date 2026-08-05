@@ -231,13 +231,16 @@
 
 ---
 
-# 🏅 GitHub Achievements
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek84313&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/Abhishek84313/Abhishek84313/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Abhishek84313/Abhishek84313/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
 
 </div>
+
+> ⚡ This animation is auto-generated from your real commit graph by the `.github/workflows/snake.yml` workflow — it updates itself daily once pushed to GitHub, no manual upkeep needed.
 
 ---
 
