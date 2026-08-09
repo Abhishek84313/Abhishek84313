@@ -215,9 +215,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek84313&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek84313&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek84313&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -225,7 +224,6 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek84313&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
