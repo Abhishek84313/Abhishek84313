@@ -1,6 +1,8 @@
 <div align="center">
+<img width="100%" src="./assets/dev-desk.svg" alt="Developer coding late at night on a dual-monitor desk setup" />
+</div>
 
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" />
+<div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ABHISHEK GAJAVILLI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
@@ -8,7 +10,11 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -19,35 +25,30 @@
 - 📫 Reach me at **abhiabhishek9347@gmail.com**
 - ⚡ Fun fact: I enjoy solving DSA problems as much as building products
 
----
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-gajavilli-65797b1a9/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/abhiabhishek9347/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/abhi9347">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://abhishek84313.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:abhiabhishek9347@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/abhishek-gajavilli-65797b1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/abhiabhishek9347/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/abhi9347"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://abhishek84313.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:abhiabhishek9347@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # ⚡ Tech Stack
 
@@ -65,94 +66,116 @@
 
 <!-- TODO: swap the icon list above for the exact stack you use -->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 🚀 Featured Projects
 
 <!-- TODO: swap the placeholder screenshots for real ones -->
 
 <table>
-<tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="50%" align="center">
 
 ## ⚡ [Flash-Sale Simulation](https://github.com/Abhishek84313)
 
-<div align="center">
-<img src="assets/flash-sale.png" width="100%"/>
-</div>
-
-> A full-stack e-commerce flash-sale simulation engineered for heavy traffic bursts. An Nginx reverse-proxy load balancer distributes traffic across clustered Spring Boot nodes, while Apache ShardingSphere horizontally partitions high-volume order tables across multiple MySQL shards using hash-based routing.
-
-<br>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-Cluster-success?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Nginx-LoadBalancer-black?style=for-the-badge&logo=nginx"/>
-<img src="https://img.shields.io/badge/ShardingSphere-MySQL%20Sharding-blue?style=for-the-badge&logo=mysql"/>
-
-<br><br>
-
-<a href="https://github.com/Abhishek84313">
-<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
-
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ## 💰 [Expense Tracker](https://github.com/Abhishek84313)
 
-<div align="center">
-<img src="assets/expense-tracker.png" width="100%"/>
-</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<img src="assets/flash-sale.png" width="100%" alt="Flash-Sale Simulation screenshot"/>
+</td>
+<td width="50%" align="center">
+<img src="assets/expense-tracker.png" width="100%" alt="Expense Tracker screenshot"/>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="50%">
+
+> A full-stack e-commerce flash-sale simulation engineered for heavy traffic bursts. An Nginx reverse-proxy load balancer distributes traffic across clustered Spring Boot nodes, while Apache ShardingSphere horizontally partitions high-volume order tables across multiple MySQL shards using hash-based routing.
+
+</td>
+<td width="50%">
 
 > A full-stack expense management platform with real-time tracking, category analytics and a sleek dashboard. Spring Boot REST API powering a reactive React frontend.
 
-<br>
+</td>
+</tr>
 
+<tr valign="top">
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-Cluster-success?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Nginx-LoadBalancer-black?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/ShardingSphere-MySQL%20Sharding-blue?style=for-the-badge&logo=mysql"/>
+</td>
+<td width="50%" align="center">
 <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-REST%20API-success?style=for-the-badge&logo=springboot"/>
 <img src="https://img.shields.io/badge/Analytics-Dashboard-orange?style=for-the-badge"/>
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/Abhishek84313">
 <img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
 </a>
-
 </td>
-
+<td width="50%" align="center">
+<a href="https://github.com/Abhishek84313">
+<img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
+</a>
+</td>
 </tr>
-<tr>
 
-<td colspan="2" align="center" valign="top">
+<tr>
+<td colspan="2" align="center">
 
 ## 🏃 [Fit Bit](https://github.com/Abhishek84313)
 
-<div align="center">
-<img src="assets/fitbit.png" width="50%"/>
-</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="assets/fitbit.png" width="50%" alt="Fit Bit screenshot"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 > Fitness tracking application built on RESTful services — activity logging, progress metrics and goal tracking wrapped in a clean, responsive interface.
 
-<br>
+</td>
+</tr>
 
+<tr>
+<td colspan="2" align="center">
 <img src="https://img.shields.io/badge/REST-API-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fitness-Tracking-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Goal-Metrics-success?style=for-the-badge"/>
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td colspan="2" align="center">
 <a href="https://github.com/Abhishek84313">
 <img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/>
 </a>
-
 </td>
-
 </tr>
+
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 🔥 LeetCode Stats, Badges & Medals
 
@@ -187,7 +210,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 🏆 HackerRank Badges & Certifications
 
@@ -209,25 +232,27 @@
 
 > 📌 Swap these badges for a screenshot of your real HackerRank badge case at `hackerrank.com/abhi9347/badges` — HackerRank doesn't provide a live badge API, so a pinned image works best.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
+<img width="80%" src="./assets/github-stats-terminal.svg" alt="Terminal readout of GitHub stats: repositories, stars, forks, followers, yearly contributions, weekly contribution strip and most used languages" />
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek84313&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<br><br>
 
-</div>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek84313&theme=tokyonight" alt="Repos per Language" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek84313&theme=tokyonight" alt="Most Commit Language" />
 
 <br>
 
-<div align="center">
-
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek84313&theme=tokyonight" alt="Profile Stats" />
+<img height="200em" src="https://streak-stats.demolab.com?user=Abhishek84313&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
 # 🐍 Contribution Snake
 
@@ -238,8 +263,10 @@
 
 </div>
 
->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
----
+<div align="center">
 
-<p align="center"><i>Thanks for stopping by! ⭐ this profile if you found it interesting.</i></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+build+something+great+together;Keep+Coding+%E2%9C%A8" alt="Outro Typing SVG" />
+
+</div>
